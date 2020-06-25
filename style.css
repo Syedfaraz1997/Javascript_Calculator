@@ -1,0 +1,80 @@
+*{
+    margin:0;
+    padding: 0;
+    line-height: 1.4;
+}
+
+header{
+    height: 100px;
+    width: 100%;
+    color: black;
+    border: 1px solid black;
+    border-radius: 2px 2px 2px 2px;
+    background: linear-gradient(to bottom, #669999 0%, #ffffff 100%);
+}
+
+header h2{
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    text-align: center;
+    margin-top :2%;
+
+}
+
+.tex{
+    width: 70%;
+    height:120px;
+    border: 2px solid gray;
+    margin:5px 10px;
+    border-radius: 5px;
+    font-size: 3rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.butC{
+    padding :10px 10px;
+    width:70%;
+    margin:5px 10px;
+    border-radius: 3px;
+}
+
+.bt{
+    width:109px;
+    margin:5px 10px;
+    height:50px;
+    border-radius: 3px;
+}
+
+.btdiv{
+    width:240px;
+    margin:5px 10px;
+    height:50px;
+    border-radius: 3px;
+}
+
+.butC:hover{
+    background-color: gray;
+   
+}
+
+.bt:hover{
+    background-color: gray;
+   
+}
+.btdiv:hover{
+    background-color: gray;
+   
+}
+
+.calculator{
+    text-align:center;
+    margin:4px 5px;
+    border: 2px solid black;
+    padding-left:1%;
+    padding-right:1%;    
+    padding-top:4%;
+    padding-bottom: 4%;
+    background: linear-gradient(to bottom, #336699 0%, #ffff99 100%);
+}
+
